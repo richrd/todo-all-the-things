@@ -55,8 +55,7 @@ Not all listed features are implemented, but I intend to get them done at some p
  > * All available emergency incidents in Finland.
  > * Any other relevant data sources that I can think of
 
-* Alchohol 'counter' - Simple web app for college students etc for tracking alcohol consumption
- > * Low priority, sorry ;D
+ * Alchohol 'counter' - Simple web app for college students etc for tracking alcohol consumption
  > * Calculates the number of alcohol units consumed based on given input.
  > * Supports adding drinks with a custom size and alcohol volume.
  > * Shows the total amount of units consumed.
